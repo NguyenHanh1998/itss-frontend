@@ -10,7 +10,7 @@
     "@mars/heroku-js-runtime-env": "3.0.2",
     "apisauce": "0.15.2",
     "auto-bind": "^2.1.0",
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "bootstrap": "^4.3.1",
     "change-case": "3.0.2",
     "chart.js": "2.7.2",
